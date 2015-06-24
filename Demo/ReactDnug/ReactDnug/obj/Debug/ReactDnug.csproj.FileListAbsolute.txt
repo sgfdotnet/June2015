@@ -1,0 +1,96 @@
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ClearScript.V8\ClearScriptV8-32.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ClearScript.V8\ClearScriptV8-64.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ClearScript.V8\v8-ia32.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ClearScript.V8\v8-x64.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ReactDnug.dll.config
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ReactDnug.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ReactDnug.pdb
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ClearScript.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\JavaScriptEngineSwitcher.Core.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\JavaScriptEngineSwitcher.Msie.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\JavaScriptEngineSwitcher.V8.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\JSPool.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\MsieJavaScriptEngine.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\Newtonsoft.Json.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\React.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\React.Web.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\React.Web.Mvc4.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Helpers.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Mvc.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Razor.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Webpages.Deployment.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Webpages.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Webpages.Razor.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\WebActivatorEx.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\JSPool.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\Newtonsoft.Json.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\React.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\React.Web.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\React.Web.Mvc4.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Razor.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Webpages.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Webpages.Deployment.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Webpages.Razor.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Helpers.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Mvc.xml
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\obj\Debug\ReactDnug.csprojResolveAssemblyReference.cache
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\obj\Debug\ReactDnug.dll
+c:\users\tfranklin\documents\visual studio 2013\Projects\ReactDnug\ReactDnug\obj\Debug\ReactDnug.pdb
+C:\Users\tfranklin\Documents\Visual Studio 2013\Projects\ReactDnug\ReactDnug\bin\Antlr3.Runtime.dll
+C:\Users\tfranklin\Documents\Visual Studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Optimization.dll
+C:\Users\tfranklin\Documents\Visual Studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Optimization.React.dll
+C:\Users\tfranklin\Documents\Visual Studio 2013\Projects\ReactDnug\ReactDnug\bin\WebGrease.dll
+C:\Users\tfranklin\Documents\Visual Studio 2013\Projects\ReactDnug\ReactDnug\bin\Antlr3.Runtime.pdb
+C:\Users\tfranklin\Documents\Visual Studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Optimization.xml
+C:\Users\tfranklin\Documents\Visual Studio 2013\Projects\ReactDnug\ReactDnug\bin\System.Web.Optimization.React.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ClearScript.V8\ClearScriptV8-32.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ClearScript.V8\ClearScriptV8-64.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ClearScript.V8\v8-ia32.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ClearScript.V8\v8-x64.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ReactDnug.dll.config
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ReactDnug.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ReactDnug.pdb
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\Antlr3.Runtime.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ClearScript.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\JSPool.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\MsieJavaScriptEngine.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\Newtonsoft.Json.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\React.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\React.Web.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\React.Web.Mvc4.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Helpers.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Mvc.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Optimization.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Optimization.React.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Razor.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Webpages.Deployment.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Webpages.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Webpages.Razor.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\WebActivatorEx.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\WebGrease.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\Antlr3.Runtime.pdb
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\JSPool.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\Newtonsoft.Json.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\React.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\React.Web.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\React.Web.Mvc4.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Optimization.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Optimization.React.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Razor.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Webpages.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Webpages.Razor.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Helpers.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\System.Web.Mvc.xml
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\obj\Debug\ReactDnug.csprojResolveAssemblyReference.cache
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\obj\Debug\ReactDnug.dll
+C:\Users\tfranklin\Desktop\ReactJS\Demo\ReactDnug\ReactDnug\obj\Debug\ReactDnug.pdb

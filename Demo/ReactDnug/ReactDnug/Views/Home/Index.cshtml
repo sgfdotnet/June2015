@@ -1,0 +1,24 @@
+﻿@{
+    Layout = null;
+}
+<html>
+<head>
+    <title>Hello React (Completed)</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:600,300italic,400' rel='stylesheet' type='text/css'>
+    <style type="text/css">
+        body { margin: 2em; }
+        body, form, input { font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 1em; }
+        #content { padding: 1em; border: 0.1em solid #ddd; background: #eee; border-radius: 1em; }
+        h1 { font-size: 1.75em; font-weight: 300; font-style: italic; margin: 0 0 1em 0; padding: 0; color: #930; }
+        h2 { font-size: 1em; font-weight: 600; margin: 0 0 .25em 0; padding: 0; color: #369; }
+        p { margin: 0 0 1.5em 0; padding: 0; color: #333; }
+        input[type=text] { border: 0.1em solid #999; background: #fff; border-radius: .25em; padding: .25em .5em; margin: 0 .5em 0 0; }
+        input[type=submit] { background: #333; color: #fff; border: 0.1em solid #000; border-radius: 0.25em; padding: .25em 1em; margin: 0; }
+    </style>
+</head>
+<body>
+    <div id="content"></div>
+    <script src="http://fb.me/react-0.13.1.js"></script>
+    @System.Web.Optimization.Scripts.Render("~/bundles/main")
+</body>
+</html>
